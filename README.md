@@ -8,7 +8,10 @@ Let's Stay Connected:
 
 [![LinkedIn]
 
-[![Laptop Emoji](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png)](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png)  Technical Skills:
+[![Laptop Emoji](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png)](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png)  
+
+
+## Technical Skills:
 
 [](https://github.com/LenartDominik#-technical-skills)
 
