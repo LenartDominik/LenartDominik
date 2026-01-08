@@ -13,7 +13,7 @@ Let's Stay Connected:
 ### Technical Skills:
 [](https://github.com/LenartDominik#-technical-skills)
 
-![https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![enter image description here](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white) ![enter image description here](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![enter image description here](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white) ![enter image description here](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![enter image description here](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white) ![enter image description here](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![enter image description here](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white)
 
 - 🔭 I’m currently working on building real-time data tracker app for **polish footballers playing abroad**
 
