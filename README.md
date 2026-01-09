@@ -17,6 +17,6 @@ Let's Stay Connected:
 
 - 🌱 I am currently **learning Python and exploring AI** in order to create an application that will be useful not only to **sports journalists and sports editors, but also to football enthusiasts**
 
-- 🔭 I’m currently working on building data tracker app for **polish footballers playing abroad**
+- 🔭 Now I'm working on building data tracker app for **polish footballers playing abroad**
 
 - 📫 How to reach me: *dominik.lenart84@gmail.com*
