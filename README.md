@@ -1,7 +1,5 @@
 # Hi, I am Dominik 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=LenartDominik&color=blue&style=flat-square)
-
 ## 
 
 Let's Stay Connected:
