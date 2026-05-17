@@ -17,4 +17,4 @@ Let's Stay Connected:
 
 - 🔭 Now I'm working on building data tracker app for **polish footballers playing abroad**
 
-- 📫 How to reach me: *dominik.lenart84@gmail.com*
+- 📫 How to reach me: *polishfootballersabroad@gmail.com*
